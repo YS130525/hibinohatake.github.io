@@ -1,0 +1,43 @@
+img[src]{
+    display:block;
+    margin:auto;
+}
+html{
+    font-family:"Noto Serif JP", serif;
+    font-size:15px;
+    font-weight:300;
+}
+body{
+    margin:0 50px;
+    padding:50px;
+    
+}
+main{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:right;
+    
+}
+ul{
+    position:flex;
+
+}
+.notebox.product{
+    padding:1em;
+    margin:1em;
+    background-color:rgba(255, 72, 72, 0.863);
+    color:white;
+    text-align:center;
+    
+    
+    
+}
+.notebox.about{
+    border:2px solid rgb(0 0 0);
+    padding:2em;
+    margin:2em;
+    text-align:center;
+}
+button{
+  
+}
